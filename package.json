@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@iarna/toml": "^2.2.3",
-    "@netlify/build": "^0.1.2",
+    "@netlify/build": "^1.0.12",
     "@netlify/config": "^0.1.1",
     "@netlify/zip-it-and-ship-it": "^0.3.1",
     "@oclif/command": "^1.5.18",
@@ -86,7 +86,7 @@
     "configstore": "^5.0.0",
     "cookie": "^0.4.0",
     "copy-template-dir": "^1.4.0",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "dot-prop": "^5.1.0",
     "envinfo": "^7.3.1",
     "execa": "^2.0.3",
