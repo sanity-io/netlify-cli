@@ -84,7 +84,7 @@
     "cli-ux": "^5.2.1",
     "concordance": "^4.0.0",
     "configstore": "^5.0.0",
-    "cookie": "^0.4.0",
+    "cookie": "^0.7.0",
     "copy-template-dir": "^1.4.0",
     "debug": "^4.1.1",
     "dot-prop": "^5.1.0",
