@@ -100,7 +100,7 @@
     "git-remote-origin-url": "^2.0.0",
     "git-repo-info": "^2.1.0",
     "http-proxy": "^1.17.0",
-    "http-proxy-middleware": "^0.20.0",
+    "http-proxy-middleware": "^2.0.7",
     "inquirer": "^6.5.1",
     "inquirer-autocomplete-prompt": "^1.0.1",
     "is-docker": "^1.1.0",
