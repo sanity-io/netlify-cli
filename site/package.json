@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@compositor/x0": "^6.0.5",
-    "@rebass/mdx": "^1.0.0-1",
+    "@rebass/mdx": "^2.0.0",
     "cosmiconfig": "^5.2.1",
     "react-helmet": "^5.2.0",
     "react-instantsearch-dom": "^5.2.3",
